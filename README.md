@@ -1,1 +1,1 @@
-# jamesrosal-2026
+# jamesrosal.github.io
