@@ -1,3 +1,1 @@
 # jamesrosal.github.io
-
-test
