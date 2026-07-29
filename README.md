@@ -1,1 +1,0 @@
-# jamesrosal.github.io
