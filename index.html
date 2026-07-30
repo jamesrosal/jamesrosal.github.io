@@ -32,16 +32,6 @@
     </script>
     <script type="module" crossorigin src="/assets/index-56853c0a.js"></script>
     <link rel="stylesheet" href="/assets/index-f40896c4.css">
-    <script>
-      // Check if a hash route exists
-      if (window.location.hash) {
-          // Extract the path after the # symbol
-          const cleanPath = window.location.hash.replace('#', '');
-          
-          // Rewrite the browser URL without reloading the page
-          window.history.pushState(null, '', cleanPath);
-      }
-    </script>
   </head>
   <body>
     <div id="root"></div>
